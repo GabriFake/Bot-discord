@@ -258,4 +258,4 @@ client.on("ready", () => {
   });
 
 //TOKEN
-client.login("OTIxMTQ2MDMzNjMzOTA2NzI5.YbuqGA.B6qYsPL04gDZ35b8qLCLEkA6EBY");
+client.login(process.env.token);
