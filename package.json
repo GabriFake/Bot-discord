@@ -1,0 +1,16 @@
+{
+  "name": "bot-discord",
+  "version": "1.0.0",
+  "description": "Bot GabriFake Developement",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "!GสbriFสҜe",
+  "license": "ISC",
+  "dependencies": {
+    "discord-buttons": "^4.0.0",
+    "discord.js": "^13.3.1",
+    "fs": "^0.0.1-security"
+  }
+}
